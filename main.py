@@ -41,6 +41,6 @@ pd.DataFrame({small_col: not_found_list}).to_csv(
     r"D:\MERGE_SMART METER DATA\not_found_consumers.csv", index=False
 )
 
-print("✅ Done! Found & Not Found dono files ban gayi.")
+print("Done! Found & Not Found dono files ban gayi.")
 
  
